@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/football-predictor/static/css/main.f855e6bc.css",
-    "main.js": "/football-predictor/static/js/main.ca71306b.js",
+    "main.css": "/football-predictor/static/css/main.e6c13ad2.css",
+    "main.js": "/football-predictor/static/js/main.81952c93.js",
     "static/js/453.f29b88c5.chunk.js": "/football-predictor/static/js/453.f29b88c5.chunk.js",
-    "static/media/logo.svg": "/football-predictor/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/football-predictor/index.html",
-    "main.f855e6bc.css.map": "/football-predictor/static/css/main.f855e6bc.css.map",
-    "main.ca71306b.js.map": "/football-predictor/static/js/main.ca71306b.js.map",
+    "main.e6c13ad2.css.map": "/football-predictor/static/css/main.e6c13ad2.css.map",
+    "main.81952c93.js.map": "/football-predictor/static/js/main.81952c93.js.map",
     "453.f29b88c5.chunk.js.map": "/football-predictor/static/js/453.f29b88c5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.ca71306b.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.81952c93.js"
   ]
 }
