@@ -1,4 +1,4 @@
-import FootballPredictor from './FootballPredictor';
+import FootballPredictor from './FootballPredictoractualizado';
 
 function App() {
   return <FootballPredictor />;
