@@ -2,7 +2,7 @@ import { useState, useCallback } from "react";
 
 const API_KEY = "0b8ed0dcd696630452ee6588fc5d2da4";
 const API_BASE = "https://v3.football.api-sports.io";
-const SEASON = 2024;
+const SEASON =[2026,2025,2024,2023,2022,2021,2020,2019,2020];
 
 const C = {
   green:"#1D9E75", greenDk:"#0F6E56", greenLt:"#E1F5EE",
